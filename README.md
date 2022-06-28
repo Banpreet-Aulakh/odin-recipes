@@ -1,0 +1,1 @@
+This is a simple HTML Project from the online web dev program Odin Project. If the code looks barebones right now it's because I will be styling as I learn how to.
